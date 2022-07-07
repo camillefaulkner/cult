@@ -1,5 +1,7 @@
 body {
     background-color: black;
+    background-image: url('ditto.png');
+    background-size: 100%;
     color: turquoise;
     margin-left: 5rem;
     margin-top: 5rem;
